@@ -67,7 +67,7 @@
 ## note:- the Postgres "DATABASE_URL" var will be added automatically no need to touch it.....
 
 
-### [Not Required Environment Variables..Click Here..](README.md#optional-vars)
+### [Not Required Environment Variables..Click Here..](readme.md#optional-vars)
 > **IF YOU WANT TO SET optional vars then go to your deployed heroku app settings and add the vars ...**
 
 
